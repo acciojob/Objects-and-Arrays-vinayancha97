@@ -7,7 +7,7 @@ const person = {
 
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
 const team = players;
-const team1 = players.splice();
+const team1 = players.slice();
 const cap1={...person};
 
 
